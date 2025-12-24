@@ -1,2 +1,2 @@
-print('Bienvenue dans notre programme Python')
+print('Python')
 print('Ce programme affiche un message de bienvenue.')
