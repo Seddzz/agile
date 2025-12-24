@@ -1,4 +1,1 @@
-print("Bonjour le monde!")
-
-def greet(name):
-    return f"Bonjour, {name}!"
+print('Bienvenue dans notre programme Python')
