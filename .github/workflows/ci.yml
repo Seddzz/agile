@@ -4,7 +4,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-      PYTHONPATH: ${{ github.workspace }}/agile
+      PYTHONPATH: ${{ github.workspace }}
     steps:
       - name: Checkout du code
         uses: actions/checkout@v2
